@@ -109,7 +109,7 @@ body {
 
 /* Temp details here */
 .tempinformation {
-  width: 50rem;
+  width: 50%;
   margin: auto;
   min-height: 20rem;
   background-color: #323544;
